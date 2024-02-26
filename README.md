@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://velog.io/@kwonboryong/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-#ffedec?style=for-the-badge&logo=#20C997&logoColor=#ffedec"/></a>
+<a href="https://velog.io/@kwonboryong/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-#ffedec?style=for-the-badge&logo=Velog&logoColor=#ffedec"/></a>
 
 <br/>
 
