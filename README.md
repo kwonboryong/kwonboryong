@@ -27,9 +27,7 @@
 
 <br/><br/>
 
-## 💻 Blog
-<a href="https://velog.io/@kwonboryong/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-#ffedec?style=for-the-badge&logo=Velog&logoColor=#ffedec"/></a>
-
+## 💬 My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=boryong)](https://velog.io/@kwonboryong) 
 
 <br/>
