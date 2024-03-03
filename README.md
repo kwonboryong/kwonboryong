@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Boryong&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bo_Ryong&fontSize=60)
 
 <br/>
 
