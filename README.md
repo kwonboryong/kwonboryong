@@ -30,7 +30,8 @@
 
 <br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={tensdiary}&theme=default)](https://tensdiary.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={tensdiary})](https://tensdiary.tistory.com)
+
 
 
 <br/><br/>
