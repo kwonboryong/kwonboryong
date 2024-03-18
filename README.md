@@ -27,6 +27,12 @@
 ## 💬 My Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=boryong)](https://velog.io/@kwonboryong) 
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>
+
+<br/>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tensdiary&theme=default)](https://tensdiary.tistory.com/)
+
+
 <br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=radical)
