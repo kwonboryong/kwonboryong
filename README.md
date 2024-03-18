@@ -25,13 +25,12 @@
 <br/><br/>
 
 ## 💬 My Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
 
 
 <br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={insert_blogName}&postId={tensdiary})](https://tensdiary.tistory.com)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name}&postId={tensdiary}&theme={default})](https://tensdiary.tistory.com)
 
 
 <br/><br/>
