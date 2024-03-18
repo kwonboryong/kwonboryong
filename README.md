@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BoRyong&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=BoRyong&fontSize=50)
 
 <br/>
 
@@ -25,7 +25,8 @@
 <br/><br/>
 
 ## 💬 My Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
 
 
 
