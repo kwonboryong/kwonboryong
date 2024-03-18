@@ -25,15 +25,14 @@
 <br/><br/>
 
 ## 💬 My Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory})](https://tensdiary.tistory.com/)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
 
 
 <br/>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=tensdiary&theme=default)](https://tensdiary.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={tensdiary}&theme=default)](https://tensdiary.tistory.com/)
 
 
 <br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=radical)
+![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=radical)
