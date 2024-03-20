@@ -5,7 +5,7 @@
 
 <br/>
 
-# Hi there👋
+# Welcome 👋
 
 <br/>
 
@@ -43,7 +43,6 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
 
 <br/><br/>
-
 
 
 
