@@ -48,7 +48,9 @@
 
 ![kwonboryong github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kwonboryong)
 
-<br/><br/>
+<!-- https://medium.com/crossplatformkorea/%EC%83%88%EB%A1%9C%EC%9A%B4-github-%ED%86%B5%EA%B3%84-%EC%8B%9C%EA%B0%81%ED%99%94-61b000b032d7 -->
+
+<br/>
 
 ![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
 
