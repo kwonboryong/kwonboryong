@@ -44,13 +44,14 @@
 
 <br/><br/>
 
+![kwonboryong github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kwonboryong)
 
+![kwonboryong github-trophies](https://stats.dooboo.io/api/github-trophies?login=kwonboryong)
 
 
 <br/><br/>
 
 ![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
-
 
 
 
