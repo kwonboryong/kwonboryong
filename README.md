@@ -43,11 +43,10 @@
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/)[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
 
 <br/><br/>
+<br/><br/>
+<br/>
 
 ![kwonboryong github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=kwonboryong)
-
-![kwonboryong github-trophies](https://stats.dooboo.io/api/github-trophies?login=kwonboryong)
-
 
 <br/><br/>
 
