@@ -5,14 +5,13 @@
 <br/>
 
 
-## Welcome 👋
+## Welcome👋
 
 <br/>
 
-✨프론트엔드 개발자 지망생 🌱✨
+✨프론트엔드 개발자🌱✨
 
 <br/><br/>
-
 
 <!--
 🔭 I’m currently working on ...
