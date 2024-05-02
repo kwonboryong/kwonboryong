@@ -4,12 +4,11 @@
 
 <br/>
 
-
 ## Welcome👋
 
 <br/>
 
-✨프론트엔드 개발자🌱✨
+✨프론트엔드 개발자🌱
 
 <br/><br/>
 
@@ -78,6 +77,5 @@
 <br/>
 
 ![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
-
 
 </div>
