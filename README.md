@@ -1,12 +1,11 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Bo-Ryong&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=KBR&fontSize=50)
 
 <br/>
 
 ## Welcome👋
 <br/>
-
 
 ✨프론트엔드 개발자🌱
 
