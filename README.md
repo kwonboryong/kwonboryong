@@ -1,6 +1,7 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=KBR&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=KBR&fontSize=50)
+
 
 <br/>
 
