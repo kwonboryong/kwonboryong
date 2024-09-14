@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-## 💻 Skills
+## 💡 Skills
 
 <br/>
 
@@ -37,8 +37,7 @@
 <br/>
 
 <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/>
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
-<img alt="jquery" src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <br/><br/>
 
@@ -65,7 +64,7 @@
 <br/><br/>
 
 ## :pencil2: Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/) [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kwonboryong) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://tensdiary.tistory.com/)
 
 <br/><br/>
 <br/><br/>
@@ -77,3 +76,4 @@
 ![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
 
 </div>
+
