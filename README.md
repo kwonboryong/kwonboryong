@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=140&section=header&text=KBR&fontSize=40)
 
-
 <br/>
 
 ## 🌟 About Me
@@ -23,17 +22,6 @@
 ✅ **어제보다 더 나은 사람이 되기 위해 끊임없이 노력합니다.** <br/>
 
 <br/><br/>
-
-<!--
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <br/><br/>
 
 ## 💡 Skills
@@ -49,8 +37,14 @@
 | **Version Control**                                                                |
 | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">                                                                                                                                |
 
+<br/><br/>
+<br/><br/>
 
-<br><br/>
+## 🚀 Projects
+### [스타일 캐스트(Style Cast): 날씨 기반 오늘의 옷(OOTD) 추천 애플리케이션](https://github.com/FRONTENDSCHOOL10/Topten)
+### [티빙(Tving): OTT 사이트 티빙 클론코딩 프로젝트](https://github.com/FRONTENDSCHOOL10/5jorago-vanilla-project)
+
+<br/><br/>
 <br/><br/>
 
 ## :pencil2: Blog
@@ -59,11 +53,11 @@
 <br/><br/>
 <br/><br/>
 
-<!-- https://medium.com/crossplatformkorea/%EC%83%88%EB%A1%9C%EC%9A%B4-github-%ED%86%B5%EA%B3%84-%EC%8B%9C%EA%B0%81%ED%99%94-61b000b032d7 -->
-
 <br/>
 
 ![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
 
-</div>
 
+
+
+</div>
