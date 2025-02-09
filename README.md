@@ -41,7 +41,7 @@
 <br/><br/>
 
 ## 🚀 Projects
-### [Threadly: 팀 프로젝트 관리를 위한 채팅 기반 이슈 트래킹 및 협업 도구](https://kdt-gitlab.elice.io/pttrack/class_01/web_project_i/team04/team04-frontend)
+### [Threadly: 팀 프로젝트 관리를 위한 채팅 기반 협업 플랫폼](https://kdt-gitlab.elice.io/pttrack/class_01/web_project_i/team04/team04-frontend)
 ### [스타일 캐스트(Style Cast): 날씨 기반 오늘의 옷(OOTD) 추천 애플리케이션](https://github.com/FRONTENDSCHOOL10/Topten)
 ### [티빙(Tving): OTT 사이트 티빙 클론코딩 프로젝트](https://github.com/FRONTENDSCHOOL10/5jorago-vanilla-project)
 
