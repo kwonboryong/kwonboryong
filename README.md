@@ -4,7 +4,6 @@
 
 <br/>
 
-
 ## 🌟 About Me
 
 <br/>
@@ -63,8 +62,6 @@
 <br/>
 
 ![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
-
-
 
 
 </div>
