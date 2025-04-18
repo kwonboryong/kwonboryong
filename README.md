@@ -37,7 +37,7 @@
 <br/><br/>
 
 ## 🚀 Projects
-### [Threadly - 팀 프로젝트 관리를 위한 채팅 기반 협업 플랫폼](https://github.com/project1-team04/team04-frontend)
+### [Threadly(스레들리) - 팀 프로젝트 관리를 위한 채팅 기반 협업 플랫폼](https://github.com/project1-team04/team04-frontend)
 ### [스타일 캐스트(Style Cast) - 날씨 기반 오늘의 옷(OOTD) 추천 애플리케이션](https://github.com/FRONTENDSCHOOL10/Topten)
 ### [티빙(Tving) - OTT 사이트 티빙 클론코딩 프로젝트](https://github.com/FRONTENDSCHOOL10/5jorago-vanilla-project)
 
@@ -45,7 +45,7 @@
 <br/><br/>
 
 ## 🩵 In Progress
-### [Culture Spot - 문화 행사 정보 제공 및 커뮤니티 기반 소통 플랫폼](https://github.com/CultureSpot/CultureSpot-Frontend)
+### [Culture Spot(컬처 스팟) - 문화 행사 정보 제공 및 커뮤니티 기반 소통 플랫폼](https://github.com/CultureSpot/CultureSpot-Frontend)
 
 <br/><br/>
 <br/><br/>
