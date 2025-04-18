@@ -3,8 +3,6 @@
 
 ## 🌟 About Me
 
-<br/>
-
 ### 끊임없이 성장하는 개발자, 권보령입니다!
 
 <br/>
@@ -53,7 +51,6 @@
 ## :pencil2: Blog
 [![Tistory](https://img.shields.io/badge/Tistory-F57200?style=for-the-badge&logo=Tistory&logoColor=white)](https://tensdiary.tistory.com/)
 
-<br/><br/>
 <br/><br/>
 
 <br/>
