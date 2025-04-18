@@ -1,7 +1,4 @@
 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=140&section=header&text=KBR&fontSize=40)
-
 <br/>
 
 ## 🌟 About Me
