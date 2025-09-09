@@ -39,6 +39,7 @@
 ## 🚀 Projects
 ### [Threadly(스레들리) - 채팅 기반의 팀 프로젝트 협업 플랫폼](https://github.com/project1-team04/team04-frontend)
 ### [스타일 캐스트(Style Cast) - 날씨 기반 오늘의 옷(OOTD) 추천 애플리케이션](https://github.com/FRONTENDSCHOOL10/Topten)
+- [Refactor (2025.09) — 접근성 개선 및 성능 최적화](https://github.com/kwonboryong/stylecast-refactor) :  **A11y 89→96(+7), axe Critical 3→0, Perf 100 유지**
 ### [티빙(Tving) - OTT 사이트 '티빙' 클론코딩 프로젝트](https://github.com/FRONTENDSCHOOL10/5jorago-vanilla-project)
 
 <br/><br/>
