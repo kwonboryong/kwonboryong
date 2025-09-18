@@ -46,6 +46,7 @@
 <br/><br/>
 
 ## 🩵 In Progress
+### [ServeNow(서브나우) - 테이블 기반 실시간 주문 & 결제 POS 시스템](https://github.com/serve-now/serveEase-frontend)
 ### [Culture Spot(컬처 스팟) - 문화 행사 정보 제공 및 커뮤니티 기반 소통 플랫폼](https://github.com/CultureSpot/CultureSpot-Frontend)
 
 <br/><br/>
