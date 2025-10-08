@@ -37,6 +37,7 @@
 <br/><br/>
 
 ## 🚀 Projects
+### [ServeNow(서브나우) - 테이블 기반 실시간 주문 & 결제 POS 시스템](https://github.com/serve-now/serveEase-frontend)
 ### [Threadly(스레들리) - 채팅 기반의 팀 프로젝트 협업 플랫폼](https://github.com/project1-team04/team04-frontend)
 ### [스타일 캐스트(Style Cast) - 날씨 기반 오늘의 옷(OOTD) 추천 애플리케이션](https://github.com/FRONTENDSCHOOL10/Topten)
 - [Refactor (2025.09) — 접근성 개선 및 성능 최적화](https://github.com/kwonboryong/stylecast-refactor) :  **A11y 89→96(+7), axe Critical 3→0, Perf 100 유지**
@@ -46,7 +47,6 @@
 <br/><br/>
 
 ## 🩵 In Progress
-### [ServeNow(서브나우) - 테이블 기반 실시간 주문 & 결제 POS 시스템](https://github.com/serve-now/serveEase-frontend)
 ### [Culture Spot(컬처 스팟) - 문화 행사 정보 제공 및 커뮤니티 기반 소통 플랫폼](https://github.com/CultureSpot/CultureSpot-Frontend)
 
 <br/><br/>
