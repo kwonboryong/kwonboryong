@@ -9,8 +9,8 @@
 <br/><br/>
 
 ### 🚀 Projects
-### [Serve Now | 테이블 기반 실시간 주문 & 결제 POS 시스템](https://github.com/serve-now/serveEase-frontend)
-### [Threadly | 채팅 기반 팀 프로젝트 관리 플랫폼](https://github.com/project1-team04/team04-frontend)
+### [Serve Now | 주문·결제·매출을 하나의 흐름으로 관리하는 POS 서비스](https://github.com/serve-now/serveEase-frontend)
+### [Threadly | 실시간 채팅 기반 협업 프로젝트 관리 플랫폼](https://github.com/kwonboryong/threadly)
 ### [Style Cast | 날씨 기반 오늘의 옷(OOTD) 추천 웹 앱](https://github.com/FRONTENDSCHOOL10/Topten)
 - [Refactor (2025.09) — 접근성 개선 및 성능 최적화](https://github.com/kwonboryong/stylecast-refactor) :  **A11y 89→96(+7), axe Critical 3→0, Perf 100 유지**
 
