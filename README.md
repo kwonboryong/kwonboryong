@@ -29,8 +29,4 @@
 ### :pencil2: Blog
 [![Tistory](https://img.shields.io/badge/Tistory-F57200?style=for-the-badge&logo=Tistory&logoColor=white)](https://tensdiary.tistory.com/)
 
-<br/><br/>
-
-![Boryong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonboryong&show_icons=true&theme=dracula)
-
 </div>
