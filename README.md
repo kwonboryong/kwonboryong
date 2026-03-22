@@ -16,6 +16,11 @@
 
 <br/><br/>
 
+### 진행 중
+### [Culture Spot | 문화 행사 정보 제공 및 커뮤니티 기반 소통 플랫폼](https://github.com/kwonboryong/CultureSpot)
+
+<br/><br/>
+
 ### ⚒ Tech Stack
 
 | Frontend                                                                     |
